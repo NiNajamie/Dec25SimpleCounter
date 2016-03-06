@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Dec25Simple
-//
-//  Created by Asuka Nakagawa on 2015-12-25.
-//  Copyright © 2015 Asuka Nakagawa. All rights reserved.
-//
 
 import UIKit
 
